@@ -1,6 +1,6 @@
 #Screen Dimensions
-WIDTH = 512
-HEIGHT = 512
+WIDTH = 800
+HEIGHT = 800
 
 #Board Dimensions
 ROWS = 8
